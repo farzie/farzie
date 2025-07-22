@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there, I'm Farzie 👋
 
-<!--
-**farzie/farzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm currently a **college student** and learning the world of computer science!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm Learning & Doing:
+
+-   🌱 I'm actively learning about **Graphic Engineering**, pushing the boundaries of what I can create visually.
+-   📚 My relationship with **Blender** is complicated... let's just say I love to hate it, but more on the later. 😉
+-   🎵 My music is **Metal, Rock, and Epic Music**.
+
+### 🤝 Connect with me:
+
+-   📫 The best way to reach me is right here on **GitHub**!
+
+### ✨ My Pronouns:
+
+-   😄 he/him
+
+---
+
+**Best Quote:**
+"What the sigma."
+—Squidward Tentacles🦑
