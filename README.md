@@ -7,8 +7,7 @@ I'm currently a **college student** and learning the world of computer science!
 ### 🌱 What I'm Learning & Doing:
 
 -   🌱 I'm actively learning about **Graphic Engineering**.
--   📚 My relationship with **Blender** is complicated... 😉
--   🎵 My music is **Metal, Rock, and Epic Music**.
+-   📚 My passion is actually about **Cooking**, but here i am... 😉
 
 ### 🤝 Connect with me:
 
